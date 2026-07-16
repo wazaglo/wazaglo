@@ -5,6 +5,9 @@ I am a **DevOps Engineer** with a strong foundation in automation, leveraging **
 
 Currently, I am working extensively with **Apache CloudStack** (on-prem) and have significant experience with **AWS** environments.
 
+![Wazaglo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazaglo&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wazaglo&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -24,6 +27,11 @@ Currently, I am working extensively with **Apache CloudStack** (on-prem) and hav
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+### 🔭 Currently Working On
+* Building a centralized FreeIPA SSH MFA architecture with tiered access control (DEV/UAT/PROD)
+* Automating CloudStack infrastructure with Terraform and Ansible
+* Security-first CI/CD pipelines with DefectDojo and SonarQube
+
 ---
 
 ### 🤝 Collaboration & Open Source
@@ -34,7 +42,7 @@ Currently, I am working extensively with **Apache CloudStack** (on-prem) and hav
 
 
 ### ⚡ Fun Fact
-*   I think I am funny. (The jury is still out, but I'm confident! 😂)
+*   I designed and deployed a FreeIPA SSH MFA system with key-only for DEV, key+password for UAT, and full OTP MFA for PRODUCTION — all automated with Ansible and testable in Docker.
 
 ---
 
