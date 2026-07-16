@@ -42,7 +42,7 @@ Currently, I am working extensively with **Apache CloudStack** (on-prem) and hav
 
 
 ### ⚡ Fun Fact
-*   I designed and deployed a FreeIPA SSH MFA system with key-only for DEV, key+password for UAT, and full OTP MFA for PRODUCTION — all automated with Ansible and testable in Docker.
+*   I believe an AI is only as good as the engineer using it. Mine just suggested I "try deleting the database." I'm scared because that's actually a good point.
 
 ---
 
