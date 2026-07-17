@@ -6,7 +6,7 @@ I am a **DevOps Engineer** with a strong foundation in automation, leveraging **
 Currently, I am working extensively with **Apache CloudStack** (on-prem) and have significant experience with **AWS** environments.
 
 ![Wazaglo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazaglo&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wazaglo&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 
