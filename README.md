@@ -6,7 +6,8 @@ I am a **DevOps Engineer** with a strong foundation in automation, leveraging **
 Currently, I am working extensively with **Apache CloudStack** (on-prem) and have significant experience with **AWS** environments.
 
 ![Wazaglo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazaglo&show_icons=true&theme=dark)
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wazaglo&theme=dark" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazaglo&layout=compact&theme=dark)
 
 ---
 
@@ -26,6 +27,37 @@ Currently, I am working extensively with **Apache CloudStack** (on-prem) and hav
 **Observability**
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+### 🏅 Certifications
+
+**Professional**
+- ![ISC2](https://img.shields.io/badge/ISC2-468545?style=flat-square&logo=isc2&logoColor=white) **Certified in Cybersecurity (CC)**
+- ![AWS](https://img.shields.io/badge/AWS_CCP-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **Cloud Practitioner**
+- ![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white) **Data Analytics Professional Certificate**
+- ![Google](https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white) **IT Support Professional Certificate**
+
+<details>
+<summary><b>📜 Training & Badges (15+)</b></summary>
+
+- **Claude 101** — Anthropic
+- **AI Literacy** — IBM SkillsBuild
+- **AI Skills Fest 2026** — Microsoft
+- **AWS Educate:** Cloud 101, Introduction to Generative AI
+- **AWS Knowledge:** Cloud Essentials, Amazon ECS, Amazon EKS, Amazon Q Developer
+- **Data Literacy** — IBM SkillsBuild
+- **Endpoint Security** — Cisco
+- **Introduction to Kubernetes (LFS158)** — Linux Foundation
+- **Docker Training for Absolute Beginner** — KodeKloud
+- **DevOps Pre-Requisite Course** — KodeKloud
+- **Grafana Loki** — KodeKloud
+- **Introduction to Cloud Security** — Simplilearn
+- **Google Project Management Specialization** — Coursera
+
+All badges verified on <a href="https://www.credly.com/users/wazaglo"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
+</details>
+
+---
+<br>
 
 ### 🔭 Currently Working On
 * Building a centralized FreeIPA SSH MFA architecture with tiered access control (DEV/UAT/PROD)
