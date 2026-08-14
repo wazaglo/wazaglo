@@ -1,82 +1,102 @@
 # Hi, I'm Wisdom Azaglo 👋
-### DevOps & Platform Engineer
 
-I am a **DevOps Engineer** with a strong foundation in automation, leveraging **Python** and **Bash** to build scalable and maintainable systems. I specialize in cloud architecture, containerization, orchestration, and infrastructure automation, with a deep interest in distributed systems and platform reliability.
+### DevOps & AI/ML Engineer
 
-Currently, I am working extensively with **Apache CloudStack** (on-prem) and have significant experience with **AWS** environments.
+Passionate about building reliable infrastructure and automating everything — from serverless platforms on AWS to end-to-end observability pipelines and security-first CI/CD.
 
-![Wazaglo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazaglo&show_icons=true&theme=dark)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=wazaglo&theme=dark&v=2" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazaglo&layout=compact&theme=dark)
+![Visitors](https://komarev.com/ghpvc/?username=wazaglo&style=flat-square&color=0ea5e9)
+
+📍 Accra, Ghana · 🌐 [wisdomazaglo.online](https://wisdomazaglo.online) · ✉️ [wazaglo87@gmail.com](mailto:wazaglo87@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wazaglo/wazaglo/main/profile/metrics.svg" alt="Wisdom's GitHub metrics" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Automation**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache CloudStack](https://img.shields.io/badge/CloudStack-003559?style=for-the-badge&logo=apache&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Observability**
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+**Observability & Security**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🏅 Certifications
+---
 
-**Professional**
-- ![ISC2](https://img.shields.io/badge/ISC2-468545?style=flat-square&logo=isc2&logoColor=white) **Certified in Cybersecurity (CC)**
-- ![AWS](https://img.shields.io/badge/AWS_CCP-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **Cloud Practitioner**
-- ![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white) **Data Analytics Professional Certificate**
-- ![Google](https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white) **IT Support Professional Certificate**
+## 🏅 Certifications
+
+- ![AWS](https://img.shields.io/badge/AWS_CCP-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** — 2026
+- ![AWS](https://img.shields.io/badge/AWS_re%2FStart-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS re/Start Graduate** — 2026
+- ![AWS](https://img.shields.io/badge/AWS_Agentic_AI_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Agentic AI Demonstrated** — 2026
+- ![AWS](https://img.shields.io/badge/AWS_Incident_Response_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Incident Response Demonstrated** — 2026
+- ![AWS](https://img.shields.io/badge/AWS_Serverless_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Serverless Demonstrated** — 2026
+- ![ISC2](https://img.shields.io/badge/ISC2-468545?style=flat-square&logo=isc2&logoColor=white) **Certified in Cybersecurity (CC)** — ISC2
+- ![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white) **Google Data Analytics Professional Certificate**
+- ![Google](https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white) **Google IT Support Professional Certificate**
+- ![Linux](https://img.shields.io/badge/LFS158-326ce5?style=flat-square&logo=linux&logoColor=white) **Introduction to Kubernetes** — Linux Foundation
 
 <details>
-<summary><b>📜 Training & Badges (15+)</b></summary>
+<summary><b>📜 More training & badges (20+ on Credly)</b></summary>
 
-- **Claude 101** — Anthropic
-- **AI Literacy** — IBM SkillsBuild
-- **AI Skills Fest 2026** — Microsoft
-- **AWS Educate:** Cloud 101, Introduction to Generative AI
+- **AWS Agentic AI Demonstrated**
+- **AWS Incident Response Demonstrated**
+- **AWS Application Networking Demonstrated**
 - **AWS Knowledge:** Cloud Essentials, Amazon ECS, Amazon EKS, Amazon Q Developer
-- **Data Literacy** — IBM SkillsBuild
+- **AWS Educate:** Cloud 101, Introduction to Generative AI
+- **AI Skills Fest 2026** — Microsoft
+- **AI Literacy** & **Data Literacy** — IBM SkillsBuild
 - **Endpoint Security** — Cisco
-- **Introduction to Kubernetes (LFS158)** — Linux Foundation
-- **Docker Training for Absolute Beginner** — KodeKloud
-- **DevOps Pre-Requisite Course** — KodeKloud
-- **Grafana Loki** — KodeKloud
-- **Introduction to Cloud Security** — Simplilearn
-- **Google Project Management Specialization** — Coursera
 
-All badges verified on <a href="https://www.credly.com/users/wazaglo"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a>
+All badges verified on [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/wazaglo)
 </details>
 
 ---
-<br>
 
-### 🔭 Currently Working On
-* Building a centralized FreeIPA SSH MFA architecture with tiered access control (DEV/UAT/PROD)
-* Automating CloudStack infrastructure with Terraform and Ansible
-* Security-first CI/CD pipelines with DefectDojo and SonarQube
+## 🔭 Currently Working On
 
----
-
-### 🤝 Collaboration & Open Source
-*   👯 I’m looking to collaborate on **Open Source projects** in the virtualization and cloud-native space.
-*   💬 Reach out if you want to talk about **Distributed Systems** or **Platform Reliability**.
+- Centralized **FreeIPA SSH MFA** architecture with tiered access control (DEV/UAT/PROD)
+- Automating **Apache CloudStack** infrastructure with **Terraform** and **Ansible**
+- **Security-first CI/CD** pipelines with DefectDojo and SonarQube
 
 ---
 
+## 🚀 Featured Projects
 
-### ⚡ Fun Fact
-*   I believe an AI is only as good as the engineer using it. Mine just suggested I "try deleting the database." I'm scared because that's actually a good point.
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| [**Monitor Secure Pipeline**](https://github.com/wazaglo/monitor-secure-pipeline) | End-to-end observability for a DevSecOps stack — 24+ endpoints, 5 OTel microservices, Prometheus/Grafana/Loki/Tempo | Go, Python, Docker, Terraform |
+| [**Secure Pipeline**](https://github.com/wazaglo/secure-pipeline) | Security-first CI/CD — Gitleaks → Bandit → Trivy → Syft → SonarQube → DefectDojo on AWS EC2 | GitHub Actions, Docker, AWS |
+| [**ImageShare**](https://github.com/wazaglo/image-sharing-platform) | Fully serverless image/file sharing on AWS — presigned URLs, PIN-protected shares, WebDAV, full-text search | Lambda, S3, DynamoDB, Cognito |
+| [**FreeIPA SSH MFA**](https://github.com/wazaglo/freeipa-ssh-mfa-architecture) | Enterprise SSH auth with progressive security — key-only → key+pass → key+pass+OTP | FreeIPA, Ansible, Linux |
+| [**eduportal**](https://github.com/wazaglo/eduportal-azubi-success) | AI student support platform grounded in the NaCCA curriculum — Bedrock + Gemini failover chain | Qwik, Lambda, DynamoDB |
+| [**DeepSeek AIOps**](https://github.com/wazaglo/DeepSeek-In-House-AI-DevOps-AIOps-Guide) | Private, local AI DevOps assistant with Prometheus/Grafana monitoring at zero API cost | Python, Ollama, Docker |
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wisdom%20Azaglo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wazaglo)
+## 📫 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wazaglo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wazaglo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://wisdomazaglo.online)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/wazaglo)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wazaglo87@gmail.com)
+
+💬 Open to collaborating on open-source projects in the virtualization and cloud-native space — reach out if you want to talk **Distributed Systems** or **Platform Reliability**.
