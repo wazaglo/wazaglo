@@ -10,14 +10,6 @@ Passionate about building reliable infrastructure and automating everything — 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wazaglo/wazaglo/main/profile/metrics.svg" alt="Wisdom's GitHub metrics" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Automation**
