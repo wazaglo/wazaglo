@@ -33,21 +33,6 @@ Passionate about building reliable infrastructure and automating everything — 
 
 ---
 
-## 🏅 Certifications
-
-- ![AWS](https://img.shields.io/badge/AWS_CCP-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** — 2026
-- ![AWS](https://img.shields.io/badge/AWS_Agentic_AI_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Agentic AI Demonstrated** — 2026
-- ![AWS](https://img.shields.io/badge/AWS_Incident_Response_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Incident Response Demonstrated** — 2026
-- ![AWS](https://img.shields.io/badge/AWS_Serverless_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Serverless Demonstrated** — 2026
-- ![AWS](https://img.shields.io/badge/AWS_Application_Networking_Demonstrated-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Application Networking Demonstrated** — 2026
-- ![ISC2](https://img.shields.io/badge/ISC2-468545?style=flat-square&logo=isc2&logoColor=white) **Certified in Cybersecurity (CC)** — ISC2
-- ![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white) **Google Data Analytics Professional Certificate**
-- ![Google](https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white) **Google IT Support Professional Certificate**
-
-Certifications verified on [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/wazaglo)
-
----
-
 ## 🔭 Currently Working On
 
 - Centralized **FreeIPA SSH MFA** architecture with tiered access control (DEV/UAT/PROD)
