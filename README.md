@@ -25,9 +25,9 @@ Prometheus Grafana GitHub Actions SonarQube DefectDojo
 
 ## 🔭 Currently Working On
 
-- Centralized **FreeIPA SSH MFA** architecture with tiered access control (DEV/UAT/PROD)
-- Automating **Apache CloudStack** infrastructure with **Terraform** and **Ansible**
-- **Security-first CI/CD** pipelines with DefectDojo and SonarQube
+- **Agentic AI on AWS Bedrock AgentCore** — production-grade customer support agent with Strands Agents, MCP Gateway (Lambda tools), cross-session memory, and Cedar-governed tool calls
+- Centralized **FreeIPA SSH MFA** with tiered access (DEV → UAT → PROD) — key-only to key+password+OTP via Ansible
+- Automating **Apache CloudStack** with **Terraform + Ansible** and shipping **security-first CI/CD** with DefectDojo & SonarQube
 
 ---
 
@@ -35,6 +35,7 @@ Prometheus Grafana GitHub Actions SonarQube DefectDojo
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
+| [**Besa AgentCore**](https://github.com/wazaglo/besa-anatomy-of-agentic-ai) | Production-grade customer support agent on AWS Bedrock AgentCore — cross-session memory, MCP Lambda gateway, Cognito-secured runtime, and Cedar-governed tools | AgentCore, Strands, Bedrock, Cognito, Cedar, MCP, Lambda |
 | [**Monitor Secure Pipeline**](https://github.com/wazaglo/monitor-secure-pipeline) | End-to-end observability for a DevSecOps stack with 24+ endpoints, 5 OTel microservices, Prometheus, Grafana, Loki, and Tempo | Go, Python, Docker, Terraform |
 | [**Secure Pipeline**](https://github.com/wazaglo/secure-pipeline) | Security-first CI/CD pipeline running Gitleaks, Bandit, Trivy, Syft, SonarQube, and DefectDojo on AWS EC2 | GitHub Actions, Docker, AWS |
 | [**ImageShare**](https://github.com/wazaglo/image-sharing-platform) | Fully serverless image and file sharing on AWS with presigned URLs, PIN-protected shares, WebDAV, and full-text search | Lambda, S3, DynamoDB, Cognito |
