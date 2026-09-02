@@ -2,7 +2,7 @@
 
 ### DevOps & AI/ML Engineer
 
-I build reliable cloud infrastructure, observability pipelines, and security-first CI/CD workflows. Based in Accra, Ghana.
+I build agentic AI systems and reliable cloud infrastructure on AWS — from Bedrock AgentCore with governed tooling to security-first CI/CD with end-to-end observability. Based in Accra, Ghana.
 
 ![Visitors](https://komarev.com/ghpvc/?username=wazaglo&style=flat-square&color=0ea5e9)
 
@@ -26,8 +26,8 @@ Prometheus Grafana GitHub Actions SonarQube DefectDojo
 ## 🔭 Currently Working On
 
 - **Agentic AI on AWS Bedrock AgentCore** — production-grade customer support agent with Strands Agents, MCP Gateway (Lambda tools), cross-session memory, and Cedar-governed tool calls
-- Centralized **FreeIPA SSH MFA** with tiered access (DEV → UAT → PROD) — key-only to key+password+OTP via Ansible
-- Automating **Apache CloudStack** with **Terraform + Ansible** and shipping **security-first CI/CD** with DefectDojo & SonarQube
+- Automating **Apache CloudStack** infrastructure with **Terraform + Ansible**
+- **Security-first CI/CD** with DefectDojo & SonarQube and end-to-end observability (Prometheus, Grafana, Loki, Tempo)
 
 ---
 
